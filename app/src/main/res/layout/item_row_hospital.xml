@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="16dp"
+    android:background="@drawable/list_background"
+    android:layout_marginBottom="8dp">
+
+    <ImageView
+        android:id="@+id/img_item_photo"
+        android:layout_width="70dp"
+        android:layout_height="55dp"
+        android:layout_marginEnd="16dp"
+        tools:src="@android:color/darker_gray"
+        android:background="@drawable/corner_radius"
+        android:contentDescription="@string/img_hospital" />
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@id/img_item_photo"
+        android:orientation="vertical"
+        android:layout_centerVertical="true">
+
+        <TextView
+            android:id="@+id/tv_item_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/name_of_hospital"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:id="@+id/tv_item_detail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/detail"
+            android:maxLines="2"
+            android:ellipsize="end"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_item_address"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/address"
+                android:layout_marginEnd="4dp"
+                android:textColor="@color/readmore"/>
+            <TextView
+                android:id="@+id/tv_item_room"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/room"
+                android:textColor="@color/readmore"
+                android:layout_marginEnd="4dp"/>
+            <TextView
+                android:id="@+id/tv_item_phone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/phone"
+                android:textColor="@color/readmore"/>
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</RelativeLayout>

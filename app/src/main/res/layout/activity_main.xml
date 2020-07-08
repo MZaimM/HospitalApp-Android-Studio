@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:background="@color/background">
+
+   <ImageView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:src="@drawable/doctor1"
+       android:layout_marginTop="20dp"
+       android:scaleType="center"
+       android:contentDescription="@string/doctor" />
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background_2">
+
+        <ImageView
+            android:scaleType="fitXY"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/hospital_img"
+            android:contentDescription="@string/hospital_img" />
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_marginTop="90dp"
+           android:orientation="vertical">
+
+           <ImageView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:src="@drawable/txt_hospital"
+               android:textAlignment="center"
+               android:contentDescription="@string/txt_hospital" />
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="@string/subtitle"
+               android:textAlignment="center"
+               android:layout_marginLeft="40dp"
+               android:layout_marginRight="40dp"/>
+
+           <Button
+               android:id="@+id/btn_Start"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:background="@drawable/button"
+               android:layout_marginHorizontal="60dp"
+               android:layout_marginTop="20dp"
+               android:text="@string/start"
+               android:textStyle="bold"
+               android:textColor="@android:color/white"
+               android:textSize="14sp"/>
+
+       </LinearLayout>
+
+
+
+    </FrameLayout>
+
+</LinearLayout>

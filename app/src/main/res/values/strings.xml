@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Hospital</string>
+    <string name="subtitle">We will inform you about list hospital, its location,
+and detail about hospital</string>
+    <string name="start">START</string>
+    <string name="txt_hospital">txt_hospital</string>
+    <string name="hospital_img">hospital_img</string>
+    <string name="doctor">doctor</string>
+    <string name="detail">Detail</string>
+    <string name="name_of_hospital">Name of Hospital</string>
+    <string name="img_hospital">img_hospital</string>
+    <string name="about">About</string>
+    <string name="user">Muhammad Zaim Maulana</string>
+    <string name="email_user">maulanazaim900@gmail.com</string>
+    <string name="detail_hospital_1">
+        Rumah Sakit Saiful Anwar Malang, salah satu RSUD Kelas A dan yang paling ramai di Jawa Timur. Jangkauan layanannya bukan hanya bagi warga Malang-Batu melainkan juga meliputi pasien dari Pasuruan, Probolinggo, Lumajang ke Timur bahkan Hingga Blitar ke Barat. RSUD Dr. Saiful Anwar ditetapkan sebagai Rumah Sakit Pendidikan Utama Akreditasi A.Sertifikat Nomor 123/MENKES/SK/I/2011 berlaku mulai 20 Januari 2011 s/d 20 Januari2016. Sertifikasi ini diberikan sebagai pengakuan bahwa RSSA telah memenuhi StandarRumah Sakit Pendidikan yang meliputi: Visi, Misi, Komitmen dan Persyaratan, Manajemendan Administrasi, Sumber Daya Manusia untuk Program Pendidikan Klinik, PenunjangPendidikan, Perancang, dan Pelaksanaan Program Pendidikan Klinik yang Berkualitas.</string>
+    <string name="detail_hospital_2">RS Prima Husada merupakan rumah sakit yang selalu berkomitmen untuk menjaga kualitas pelayanan dan fasilitas rumah sakit sehingga pasien merasa aman dan nyaman dalam menjalani proses pengobatan.</string>
+    <string name="detail_hospital_3">Rumah Sakit Karsa Husada Batu sudah berdiri sejak 1912 yang sekarang berada dibawah naungan Dinas Kesehatan Provinsi Jawa Timur. Rumah Sakit Karsa Husada Batu memiliki Visi mewujudkan rumah sakit yang menjadi pilihan masyarakat, dengan Misi memberikan pelayanan kesehatan yang aman, ramah dan berkualitas, menerapkan tatakelola yang professional dan akuntabel, dan mewujudkan rumah sakit umum sebagai RSU kelas B berpendidikan.</string>
+    <string name="detail_hospital_4">Rumah sakit Universitas Muhammadiyah Malang diresmikan pada tanggal 17 Agustus 2013 bertepatan dengan hari kemerdekaan Republik Indonesia yang ke 68. Rumah sakit ini merupakan sarana penunjang pendidikan dan merupakan salah satu profit center dari Universitas Muhammadiyah Malang.</string>
+    <string name="detail_hospital_5">Rumah Sakit Lavalette adalah salah satu rumah sakit di pusat kota Malang yang dikelola oleh PT Perkebunan Nusantara XI. Rumah Sakit Lavalette berada di dekat lintasan kereta api kawasan Celaket yang sejuk dan rindang dengan fasilitas yang modern.</string>
+    <string name="detail_hospital_6">RS. Panti Waluya Sawahan Malang berdiri sejak tahun 1929, dimana sudah cukup usia dan pengalaman dalam memberikan pelayanan kesehatan. RS. Panti Waluya Malang selalu ikut dalam perkembangan IPTEK Kesehatan yang sejalan dengan perkembangan zaman. Bahkan tidak hanya IPTEK yang berkembang, SDM dalam segala bidang, bidang pelayanan kesehatan di RS. Panti Waluya Sawahan Malang juga berkembang pesat.</string>
+    <string name="detail_hospital_7">Rumah Sakit Wava Husada Malang beroperasi sejak tanggal 18 Januari 2006, dibawah naungan PT. Abna Saman Hudi Sautika Husada. Rumah Sakit Wava Husada Malang memiliki Visi menjadi rumah sakit unggulan dalam pelayanan untuk mencapai kepuasan pelanggan. Dengan Misi menjangkau dan melayani pelanggan secara profesional dan sepenuh hati, menyediakan SDM yang berkompeten dengan mengutamakan Mutu &amp; Keselamatan pasien, serta menyediakan prasarana dan sarana yang berkualitas.</string>
+    <string name="detail_hospital_8">Rumah Sakit Tentara dokter Soepraoen Malang adalah salah satu rumah sakit tingkat II di Malang. Siapa yang sangka, rumah sakit yang beroperasi di bawah kendali Kesdam V/Brawijaya ini memiliki sejarah yang panjang. Sejarah tersebut menjadi bagian dari perkembangan Kota Malang pada zaman pendudukan Belanda hingga era kemerdekaan.</string>
+    <string name="detail_hospital_9">RSUD Kanjuruhan merupakan rumah sakit  Milik Pemerintah Kabupaten Malang dengan type Kelas B Non Pendidikan, Berstandar SMM ISO 9001:2015 serta Lulus Akreditasi Tingkat Paripurna. Berdiri di lahan seluas 32.140 m2  dan Luas bangunan 17.550 m2.</string>
+    <string name="detail_hospital_10">Rumah Sakit Islam (RSI) Gondanglegi merupakan salah satu rumah sakit tingkat kecamatan di Kabupaten Malang. Sebagai rumah sakit tingkat kecamatan, RSI Gondanglegi bisa dibilang lengkap secara peralatan dan pelayanan dokternya.</string>
+
+    <string name="alamat_hospital_1">Jl. Jaksa Agung Suprapto No. 2, Klojen, Kec. Klojen, Kota Malang, Jawa Timur 65111</string>
+    <string name="alamat_hospital_2">Jl.Raya Mondoroko, Mondoroko, Banjararum,Kec. Singosari, Malang, Jawa Timur 65153</string>
+    <string name="alamat_hospital_3">Jl. Ahmad Yani No. 11–13, Batu Jawa Timur - Indonesia</string>
+    <string name="alamat_hospital_4">JL. RAYA TLOGOMAS NO 45 MALANG Malang, Jawa Timur, Indonesia 65144</string>
+    <string name="alamt_hospital_5">Jl. W.R Supratman No. 10 Malang</string>
+    <string name="alamt_hospital_6">Jl. Nusakambangan No.56, Kasin, Kec. Klojen, Kota Malang, Jawa Timur 65117</string>
+    <string name="alamt_hospital_7">Jl. Panglima Sudirman No.99A, Lemah Duwur, Dilem, Kec. Kepanjen</string>
+    <string name="alamt_hospital_8">JL. S. Supriyadi, No. 22, Sukun, Kec. Sukun, Kota Malang, Jawa Timur 65139</string>
+    <string name="alamt_hospital_9">Jl. Panji No.100, Krajan,Panggungrejo, Kec. Kepanjen, Malang, Jawa Timur 65163</string>
+    <string name="alamt_hospital_10">Jl. Hayam Wuruk No.66, Krajan, Gondanglegi Wetan, Kec. Gondanglegi, Malang, Jawa Timur 65174</string>
+
+    <string name="contact_this_hospital">Contact This Hospital</string>
+    <string name="number_phone_H1">(0341) 362101</string>
+    <string name="number_phone_H2">(0341) 458679</string>
+    <string name="number_phone_H3">(0341) 596898</string>
+    <string name="number_phone_H4">(0341) 561666</string>
+    <string name="number_phone_H5">(0341) 470805</string>
+    <string name="number_phone_H6">(0341) 366033</string>
+    <string name="number_phone_H7">(0341) 393000</string>
+    <string name="number_phone_H8">(0341) 325112</string>
+    <string name="number_phone_H9">(0341) 395041</string>
+    <string name="number_phone_H10">(0341) 879047</string>
+
+    <string name="room_available_H1">Tersedia 37 Ruang Isolasi</string>
+    <string name="room_available_H2">Tersedia 6 Ruang Isolasi</string>
+    <string name="room_available_H3">Tersedia 28 Ruang Isolasi</string>
+    <string name="room_available_H4">Tersedia 30 Ruang Isolasi</string>
+    <string name="room_available_H5">Tersedia 8 Ruang Isolasi</string>
+    <string name="room_available_H6">Tersedia 12 Ruang Isolasi</string>
+    <string name="room_available_H7">Tersedia 2 Ruang Isolasi</string>
+    <string name="room_available_H8">Tersedia 19 Ruang Isolasi</string>
+    <string name="room_available_H9">Tersedia 24 Ruang Isolasi</string>
+    <string name="room_available_H10">Tersedia 4 Ruang Isolasi</string>
+
+    <string name="deskripsi">Deskripsi</string>
+    <string name="rsu_saiful_anwar_malang">RSU Saiful Anwar Malang</string>
+    <string name="img_hospital_1">img_hospital_1</string>
+    <string name="pointer">pointer</string>
+    <string name="number_phone">number phone</string>
+    <string name="room_available">room available</string>
+    <string name="address">Read</string>
+
+
+    <string name="room">more</string>
+    <string name="phone">>></string>
+
+</resources>
